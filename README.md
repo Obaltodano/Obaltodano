@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:087E8B,100:18A999&height=230&section=header&text=Orlando%20Josu%C3%A9%20Baltodano&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Senior%20%7C%20Java%20%2B%20Angular%20%7C%20CTO%20%2F%20Product%20Owner&descSize=16&descAlignY=58&descColor=E6FFFA" alt="Orlando Josué Baltodano | Full Stack Senior, Java y Angular" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:087E8B,100:18A999&height=230&section=header&text=Orlando%20Josu%C3%A9%20Baltodano&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=Ingeniero%20de%20Software%20%7C%20Full%20Stack%20%7C%20CTO%20%2F%20Product%20Owner&descSize=16&descAlignY=58&descColor=E6FFFA" alt="Orlando Josué Baltodano | Ingeniero de Software, Full Stack, CTO y Product Owner" />
 
   <p>
     <a href="https://takenjo.lat"><img src="https://img.shields.io/badge/Portafolio-takenjo.lat-087E8B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
@@ -12,39 +12,43 @@
 
 ## Perfil
 
-Ingeniero en Computación con **más de 10 años de experiencia** diseñando, construyendo y liderando soluciones de software. Me gusta trabajar de punta a punta: entender el reto, definir una arquitectura sólida y convertirla en productos útiles y mantenibles.
+Ingeniero en Computación con **más de 10 años de experiencia** diseñando, arquitecturando y liderando soluciones de software a medida para empresas de Canadá, Costa Rica, Brasil y España. Mi enfoque es agnóstico a la tecnología: **no me define un lenguaje, sino resolver problemas de negocio**. Elijo el stack según el reto y convierto procesos complejos en sistemas escalables, seguros y mantenibles.
 
-Mi especialidad es el desarrollo **Full Stack con Java, Spring Boot y Angular**. Elijo las herramientas según el problema y también trabajo con Python e inteligencia artificial aplicada.
+He liderado producto, equipos y roadmaps como **CTO, CIO y Product Owner**, además de fundar **Pets.ni**, un ecosistema PetTech B2B2C. Actualmente exploro inteligencia artificial aplicada con modelos locales, RAG y agentes, priorizando privacidad y ejecución on-premise.
 
-## Especialidades
+## Áreas de expertise
 
-| Área | Enfoque |
+| Disciplina | Experiencia y herramientas |
 |:--|:--|
-| **Backend** | Java 8+, Spring Boot, Spring Security, JPA/Hibernate, APIs REST y microservicios |
-| **Frontend** | Angular 12+, TypeScript, RxJS, Angular Material y aplicaciones SPA |
-| **Arquitectura** | Clean Architecture, SOLID, patrones de diseño, DDD, SaaS y sistemas ERP |
-| **Datos** | MySQL, PostgreSQL, SQL Server, Oracle y bases de datos vectoriales |
-| **IA aplicada** | Python, LLMs, RAG, agentes, Ollama, Hugging Face, LangChain y LlamaIndex |
-| **Infraestructura** | Docker, Linux, Git, CI/CD, redes y Cloudflare Tunnels |
-| **Producto y liderazgo** | CTO, CIO, Product Owner, estrategia, roadmap y metodologías ágiles |
+| **Principios de ingeniería** | Clean Code, SOLID, patrones de diseño, DDD y selección de tecnologías según el problema |
+| **Arquitectura** | Full Stack, APIs REST, microservicios, SaaS, ERP, MLOps básico y LLM Gateways |
+| **Desarrollo de producto** | Python, Node.js, C#/.NET, PHP, React y Next.js; desarrollo end-to-end |
+| **Liderazgo** | CTO, CIO, Product Owner, Agile/Scrum, estrategia, roadmap y gestión de backlog |
+| **Datos** | Bases SQL y NoSQL, diseño y optimización, Chroma y FAISS (Vector DBs) |
+| **Infraestructura e IA** | Git/GitHub, Docker, Linux, redes, CCTV, Ollama, Hugging Face, LangChain y LlamaIndex |
+| **Especialidades** | LLM Fine-Tuning (LoRA/QLoRA), RAG, AI Agents, Mastra, n8n, Solidity, Web3, Smart Contracts y desarrollo de juegos con Unity/Godot |
+| **Plataformas empresariales** | SAP ABAP/HANA, Oracle Forms/Reports, Tableau, Aspel y Microsoft Exchange |
 
-## Stack tecnológico
+## I+D en inteligencia artificial
+
+**Proyectos personales · 2024–Actualidad · En pruebas**
+
+- **LLMs locales, Fine-Tuning y RAG:** pipelines en Python para curación de datasets, especialización de modelos como Llama 3, Mistral y Phi con LoRA/QLoRA, y evaluación. Flujo RAG con ingesta documental, chunking, embeddings, Chroma/FAISS, recuperación contextual y un gateway propio de orquestación.
+- **Agente de desarrollo:** prototipo de agente autónomo para generar, revisar y mejorar código con un modelo especializado; actualmente en pruebas.
+- **Agente FinTech:** asistente experimental basado en documentación de trading para apoyar el análisis y la toma de decisiones.
+- **Automatización inteligente:** flujos de n8n que integran LLMs, APIs y procesos de negocio; en pruebas.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/SAP-0FA7D5?style=for-the-badge&logo=sap&logoColor=white" alt="SAP" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Chroma%20%2F%20FAISS-087E8B?style=for-the-badge" alt="Chroma y FAISS" />
 </div>
 
 <br />
 
 <div align="center">
-  <sub>Masaya, Nicaragua · Desarrollo de software con visión de producto</sub>
+  <sub>Masaya, Nicaragua · Ingeniería de software con visión de producto</sub>
 </div>
